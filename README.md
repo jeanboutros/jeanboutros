@@ -9,9 +9,11 @@
 
 ## About Me
 
-Senior engineering leader with **18 years building scalable systems and high-performing teams**. I bridge technical excellence with business impact, having led teams of **3-25 engineers** to ship data solutions, FinTech products, and business and customer-facing applications.
+Data engineering professional with **18 years of experience** across data systems, FinTech, and software development. Over the past **5 years**, I've focused on data engineering leadership, building teams and designing scalable solutions that solve real business problems.
 
-Currently seeking opportunities to **lead engineering teams** in building platforms that solve real data problems for business and customers.
+I enjoy bridging technical implementation with business needs, having led teams of **3-25 engineers** to deliver data products, analytics solutions, and business and customer-facing applications.
+
+Currently seeking opportunities to **head the engineering practice** to build data platforms that drive business value.
 
 ---
 
@@ -26,8 +28,8 @@ Currently seeking opportunities to **lead engineering teams** in building platfo
 ### Product & Technical Strategy
 - **Product Engineering**: Shipped consumer FinTech products (digital wallets, payment systems), data platforms and analytics solutions such as sales reporting
 - **Technical Architecture**: Cloud-native systems, data pipelines, data analytics layer with dimensional models, integration with microservices and real-time services (kafka), Infrastructure as Code (Terraform & Terragrunt), CI/CD pipelines with GitHub Actions and git hooks.
-- **Delivery Excellence**: Balanced speed with quality through flexible project delivery methodologies (mainly Kanban), CI/CD, and iterative shipping
-- **User-Centric Design**: Delivered solutions informed by customer needs, data insights, and business impact
+- **Delivery Management**: Used Kanban for project delivery with CI/CD and iterative shipping
+- **Solution Design**: Built solutions based on customer requirements and data analysis
 
 **Technical Foundation**
 **Languages**: Python, PySpark, Java, Kotlin, SQL, Bash  
@@ -47,8 +49,8 @@ Leading engineering practice managing **3 direct reports + 12 indirect** across 
 **Product & Engineering Leadership:**
 - Defined and implemented data architecture framework serving BI and analytics customers across the organisation
 - Collaborate with product and business stakeholders to translate requirements into scalable technical solutions
-- Balance engineering excellence with delivery velocity — ship iteratively while maintaining system reliability
-- Established principles and standards for data quality and processing, improving reliability by measurable margins
+- Deploy incremental improvements while maintaining uptime
+- Established principles and standards for data quality and processing, reducing incidents by 80%
 
 **Technical Delivery:**
 - Engineered automated CI/CD pipelines with GitHub Actions, increasing deployment frequency and reducing incidents
@@ -58,10 +60,10 @@ Leading engineering practice managing **3 direct reports + 12 indirect** across 
 
 **Team Leadership:**
 - Mentor and coach 3 junior data engineers and 2 senior data engineers, developing a plan for their technical and non-technical growth, helping them to navigate the corporate environment, and preparing them for future leadership roles
-- Drive hiring efforts to expand the data engineering team, focusing on attracting top talent aligned with team & company culture and values
-- Foster culture of ownership, collaboration, and continuous improvement
+- Redesigned hiring process with coffee chats, practical design pattern discussions, and gamified coding assessments focused on real work scenarios rather than theoretical interviews
+- Created 3-year technical development plan where each engineer owns specific areas (CI/CD, metadata-driven development, unit testing) to build expertise and accountability
 - Conduct performance reviews, career planning, and skill development initiatives
-- Defined team processes and workflows to enhance productivity and reduce avoidable human errors
+- Established development standards: code contribution guidelines, PR processes, commit message conventions, application design requirements (IaC, service principles, networking), data flow standards, and naming conventions
 - Designed the team's 3-year roadmap to upskill, cross-skill, and grow the team, focusing on increased happiness and a slow-paced, empathetic transformation.
 
 ---
@@ -72,8 +74,8 @@ Led data transformation programs across Insurance and Transport sectors, archite
 
 **Engineering Leadership at Scale:**
 - **Built a 25-engineer data capability from the ground up** — established governance, staffing frameworks, and reduced bench by 30%
-- Led team modernization initiative: recruited engineers, defined training roadmaps, implemented modern methodologies
-- Positioned as SME on data engineering; chaired steering group to nurture community and drive innovation
+- Led team modernization: recruited engineers, defined training roadmaps, shifted from quick solutions (Alteryx, Excel, Power BI) to scalable cloud architectures using Databricks and Data Factory
+- Consulted on all data transformation projects across the various sectors; supported client designs, pitches, and internal peer reviews; chaired steering group
 - Coached engineers across consulting lines on technical growth and delivery excellence
 
 **Technical & Product Delivery:**
@@ -91,13 +93,13 @@ Led data transformation programs across Insurance and Transport sectors, archite
 
 ### **Data Science & Insights Lead** | UNHCR (UN Refugee Agency) | *Apr 2018 - Dec 2020* | Beirut, Lebanon
 
-Built data products serving humanitarian operations across the country.
+Built analytics applications and call center tools for humanitarian operations across the country.
 
 **Product Development in Challenging Environments:**
 - Designed and shipped a custom analytics application, and call center tools to gather data from refugee communities
 - Streamlined reporting workflows and customized outputs, increasing data accessibility for leadership and external partners
-- Achieved breakthrough improvements in humanitarian response efficiency through accelerated, tailored insights
-- Unlocked increased funding from international donors through data-driven enhanced transparency and impact storytelling
+- Increased call center case processing from 5 cases per week to hundreds per day, including life-threatening emergencies
+- Doubled call center funding through improved data transparency and impact reporting
 
 **Technical Delivery:**
 - Built automated dashboards and visualizations using Python, Tableau, and Power BI to accelerate decision-making
@@ -175,7 +177,7 @@ Saint Joseph University of Beirut
 I'm interested in **Head of Data**, **Head of Engineering**, or **Engineering Manager** roles where I can:
 - Lead engineering teams building data platforms, analytics solutions, or customer-facing products
 - Partner with product and business departments to shape roadmaps and technical strategy
-- Build and mentor high-performing teams that ship with velocity and quality
+- Build and mentor teams that deliver reliable solutions quickly
 - Architect scalable systems that solve real data problems for the business and customers
 
 📧 **jean.boutros@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/jeanboutros)** | 📝 **[Medium](https://medium.com/@jeanboutros)** | 💾 [Github](https://github.com/jeanboutros)
