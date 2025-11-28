@@ -31,19 +31,13 @@ I bridge technical implementation with business needs, translating requirements 
 
 ### Technical Foundation
 
-**Core Languages**: Python, PySpark, SQL, Bash, Java, Kotlin
-
-**Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
-
-**Data Platforms**: Databricks, Snowflake, Palantir Foundry, Unity Catalog
-
-**Data Tools**: Kafka, Airflow, DuckDB
-
-**Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
-
-**DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles, Hatch
-
-**Analytics & BI**: Power BI, Tableau, Python (polars, pandas, delta lake, matplotlib, seaborn)
+- **Core Languages**: Python, PySpark, SQL, Bash, Java, Kotlin
+- **Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
+- **Data Platforms**: Databricks, Snowflake, Palantir Foundry, Unity Catalog
+- **Data Tools**: Kafka, Airflow, DuckDB
+- **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
+- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles, Hatch
+- **Analytics & BI**: Power BI, Tableau, Python (polars, pandas, delta lake, matplotlib, seaborn)
 
 ---
 
