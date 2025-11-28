@@ -1,8 +1,8 @@
 # Jean Boutros
 ## Data Architect and Engineering Manager
 
-📍 London, UK | 📧 jean.boutros@gmail.com | 📱 +44 7950 524123  
-🪪 [LinkedIn](https://www.linkedin.com/in/jeanboutros) | 📝 [Medium Blog](https://medium.com/@jeanboutros) | 💾 [GitHub](https://github.com/jeanboutros)
+📍 London, UK | 📧 jean [dot] boutros [at] gmail [dot] com | 📱 +44 seven-nine-five-zero five-two-four-one-two-three  
+🪪 [LinkedIn](https://www.linkedin.com/in/jeanboutros) | 📝 [Medium Blog](https://medium.com/@jeanboutros) | 💾 [Github](https://github.com/jeanboutros)
 
 
 ---
@@ -181,4 +181,4 @@ I'm interested in **Head of Data**, **Head of Engineering**, or **Engineering Ma
 - Build and mentor teams that deliver reliable solutions quickly
 - Architect scalable systems that solve real data problems for the business and customers
 
-📧 **jean.boutros@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/jeanboutros)** | 📝 **[Medium](https://medium.com/@jeanboutros)** | 💾 **[GitHub](https://github.com/jeanboutros)**
+📧 **jean [dot] boutros [at] gmail [dot] com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/jeanboutros)** | 📝 **[Medium](https://medium.com/@jeanboutros)** | 💾 [Github](https://github.com/jeanboutros)
