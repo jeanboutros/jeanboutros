@@ -2,18 +2,16 @@
 ## Data Architect and Engineering Manager
 
 📍 London, UK | 📧 jean.boutros@gmail.com | 📱 +44 7950 524123  
-🪪 [LinkedIn](https://www.linkedin.com/in/jeanboutros) | 📝 [Medium Blog](https://medium.com/@jeanboutros) | 💾 [Github](https://github.com/jeanboutros)
+🪪 [LinkedIn](https://www.linkedin.com/in/jeanboutros) | 📝 [Medium Blog](https://medium.com/@jeanboutros) | 💾 [GitHub](https://github.com/jeanboutros)
 
 
 ---
 
 ## About Me
 
-Data engineering professional with **18 years of experience** across data systems, FinTech, and software development. Over the past **5 years**, I've focused on data engineering leadership, building teams and designing scalable solutions that solve real business problems.
+Data engineering leader with **18 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've specialized in leading data engineering teams of **3-25 engineers**, delivering data platforms, analytics solutions, and customer-facing applications.
 
-I enjoy bridging technical implementation with business needs, having led teams of **3-25 engineers** to deliver data products, analytics solutions, and business and customer-facing applications.
-
-Currently seeking opportunities to **head the engineering practice** to build data platforms that drive business value.
+I bridge technical implementation with business needs, translating requirements into solutions that drive measurable value. Currently seeking **Head of Data** or **Head of Engineering** opportunities where I can build data platforms that fuel business growth.
 
 ---
 
@@ -25,18 +23,27 @@ Currently seeking opportunities to **head the engineering practice** to build da
 - **Coaching & Development**: Mentored engineers across all levels; created training roadmaps and communities of practice
 - **Hiring & Retention**: Recruited and retained high-performing engineers; built career progression frameworks
 
-### Product & Technical Strategy
-- **Product Engineering**: Shipped consumer FinTech products (digital wallets, payment systems), data platforms and analytics solutions such as sales reporting
-- **Technical Architecture**: Cloud-native systems, data pipelines, data analytics layer with dimensional models, integration with microservices and real-time services (kafka), Infrastructure as Code (Terraform & Terragrunt), CI/CD pipelines with GitHub Actions and git hooks.
-- **Delivery Management**: Used Kanban for project delivery with CI/CD and iterative shipping
-- **Solution Design**: Built solutions based on customer requirements and data analysis
+### Technical Strategy & Architecture
+- **Data Platform Engineering**: Built data platforms, analytics solutions, and reporting systems that drive business decisions
+- **Cloud Architecture**: Cloud-native systems, data pipelines, dimensional models, microservices, real-time streaming (Kafka)
+- **Infrastructure & DevOps**: Infrastructure as Code (Terraform, Terragrunt), CI/CD with GitHub Actions, containerization
+- **Delivery Excellence**: Kanban-based delivery with iterative shipping and continuous improvement
 
-**Technical Foundation**
-**Languages**: Python, PySpark, Java, Kotlin, SQL, Bash  
-**Cloud & Infrastructure**: Azure, Kubernetes, Docker, Terraform, Terragrunt  
-**Data Engineering**: Databricks, Snowflake, Kafka, Airflow, Azure Data Factory, Azure Data Lake Storage, Azure Functions, Palantir Foundry  
-**Databases**: PostgreSQL, MySQL, Clickhouse, DuckDB, SQLite, MongoDB, Unity Catalog  
-**Tools & Frameworks**: GitHub Actions, CI/CD, Microservices, REST APIs, GraphQL, Spring Boot, Power BI, Tableau, Linux
+### Technical Foundation
+
+**Core Languages**: Python, PySpark, SQL, Bash, Java, Kotlin
+
+**Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
+
+**Data Platforms**: Databricks, Snowflake, Palantir Foundry, Unity Catalog
+
+**Data Tools**: Kafka, Airflow, DuckDB
+
+**Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
+
+**DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles, Hatch
+
+**Analytics & BI**: Power BI, Tableau, Python (polars, pandas, delta lake, matplotlib, seaborn)
 
 ---
 
@@ -56,7 +63,7 @@ Leading engineering practice managing **3 direct reports + 12 indirect** across 
 - Engineered automated CI/CD pipelines with GitHub Actions, increasing deployment frequency and reducing incidents
 - Implemented Infrastructure as Code (IaC) using Terraform/Terragrunt for version-controlled, repeatable Azure infrastructure
 - Standardised data governance, access control, and security using Databricks and Unity Catalog
-- Led the development of data processing applications in Databricks with PySpark and Python to enable a new view into ads management and performance and reduce cost by approximately 50%. More importantly, this enabled the business to understand where spillages are happening and take action to reduce them to maximise revenue.
+- Led the development of data processing applications in Databricks with PySpark and Python to enable a new view into ads management and performance and reduce cost by approximately 50%. Critically, this enabled the business to identify revenue spillage points to take action and maximise revenue.
 
 **Team Leadership:**
 - Mentor and coach 3 junior data engineers and 2 senior data engineers, developing a plan for their technical and non-technical growth, helping them to navigate the corporate environment, and preparing them for future leadership roles
@@ -64,7 +71,7 @@ Leading engineering practice managing **3 direct reports + 12 indirect** across 
 - Created 3-year technical development plan where each engineer owns specific areas (CI/CD, metadata-driven development, unit testing) to build expertise and accountability
 - Conduct performance reviews, career planning, and skill development initiatives
 - Established development standards: code contribution guidelines, PR processes, commit message conventions, application design requirements (IaC, service principles, networking), data flow standards, and naming conventions
-- Designed the team's 3-year roadmap to upskill, cross-skill, and grow the team, focusing on increased happiness and a slow-paced, empathetic transformation.
+- Designed 3-year team roadmap focused on sustainable growth, cross-skilling, and wellbeing through empathetic, incremental transformation
 
 ---
 
@@ -75,7 +82,7 @@ Led data transformation programs across Insurance and Transport sectors, archite
 **Engineering Leadership at Scale:**
 - **Built a 25-engineer data capability from the ground up** — established governance, staffing frameworks, and reduced bench by 30%
 - Led team modernization: recruited engineers, defined training roadmaps, shifted from quick solutions (Alteryx, Excel, Power BI) to scalable cloud architectures using Databricks and Data Factory
-- Consulted on all data transformation projects across the various sectors; supported client designs, pitches, and internal peer reviews; chaired steering group
+- Consulted on all data transformation projects across various sectors; supported client designs, pitches, and internal peer reviews; chaired steering group
 - Coached engineers across consulting lines on technical growth and delivery excellence
 
 **Technical & Product Delivery:**
@@ -96,7 +103,7 @@ Led data transformation programs across Insurance and Transport sectors, archite
 Built analytics applications and call center tools for humanitarian operations across the country.
 
 **Product Development in Challenging Environments:**
-- Designed and shipped a custom analytics application, and call center tools to gather data from refugee communities
+- Designed and shipped custom analytics applications and call center tools to gather data from refugee communities
 - Streamlined reporting workflows and customized outputs, increasing data accessibility for leadership and external partners
 - Increased call center case processing from 5 cases per week to hundreds per day, including life-threatening emergencies
 - Doubled call center funding through improved data transparency and impact reporting
@@ -180,4 +187,4 @@ I'm interested in **Head of Data**, **Head of Engineering**, or **Engineering Ma
 - Build and mentor teams that deliver reliable solutions quickly
 - Architect scalable systems that solve real data problems for the business and customers
 
-📧 **jean.boutros@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/jeanboutros)** | 📝 **[Medium](https://medium.com/@jeanboutros)** | 💾 [Github](https://github.com/jeanboutros)
+📧 **jean.boutros@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/jeanboutros)** | 📝 **[Medium](https://medium.com/@jeanboutros)** | 💾 **[GitHub](https://github.com/jeanboutros)**
