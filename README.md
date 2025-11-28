@@ -12,6 +12,7 @@
 Senior engineering leader with **18 years building scalable systems and high-performing teams**. I bridge technical excellence with business impact, having led teams of **3-25 engineers** to ship data solutions, FinTech products, and business and customer-facing applications.
 
 Currently seeking opportunities to **lead engineering teams** in building platforms that solve real data problems for business and customers.
+
 ---
 
 ## Core Expertise
