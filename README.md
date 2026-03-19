@@ -7,9 +7,9 @@
 
 ## About Me
 
-Data engineering leader with **19 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've specialized in leading data engineering teams of **3-25 engineers**, delivering data platforms, analytics solutions, and customer-facing applications. 
+Data engineering leader with **19 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've led data engineering teams of **3–25 engineers**, delivering data platforms, analytics solutions, and customer-facing products across consulting, media, humanitarian, and fintech sectors.
 
-I bridge technical implementation with business needs, translating requirements into solutions that drive measurable value. Currently seeking **Head of Data** or **Head of Engineering** opportunities where I can build data platforms that fuel business growth.
+I bridge technical depth with business strategy — translating complex requirements into platforms that drive measurable revenue, reduce cost, and accelerate decision-making. I thrive in roles where I can build teams, shape technical roadmaps, and deliver systems that compound value over time.
 
 
 ## Core Expertise
@@ -30,42 +30,40 @@ I bridge technical implementation with business needs, translating requirements 
 
 ### Technical Foundation
 
-- **Core Languages**: Python (principle language), PySpark, SQL, Bash
-- **Other Languages**: TypeScript, Javascript, Java, Kotlin
+- **Core Languages**: Python (primary), PySpark, SQL, Bash
+- **Other Languages**: TypeScript, JavaScript, Java, Kotlin
 - **Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
 - **Data Platforms**: Databricks, Snowflake, Unity Catalog
-- **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite, Unity Catalog
-- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles,
+- **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
+- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles
 
 
 ## Professional Experience
 
 ### **Engineering Manager** | Bauer Media Outdoor Europe | *Aug 2024 - Present* | London, UK
 
-Leading engineering practice managing **3 direct reports + 12 indirect** across data architecture and cloud engineering. Balance hands-on technical leadership with strategic planning and team development.
+Leading engineering practice managing **3 direct reports + 12 indirect** across data architecture and cloud engineering, balancing hands-on technical leadership with strategic planning and team development.
 
 #### **Product & Engineering Leadership:**
 
-- Defined and implemented data architecture framework serving BI and analytics customers across the organisation
-- Collaborate with product and business stakeholders to translate requirements into scalable technical solutions
-- Deploy incremental improvements while maintaining uptime
-- Established principles and standards for data quality and processing, reducing incidents by 80%
+- Define and implement data architecture framework serving BI and analytics customers across the organisation
+- Partner with product and business stakeholders to translate requirements into scalable technical solutions
+- Establish principles and standards for data quality and processing, reducing incidents by 80%
 
 #### **Technical Delivery:**
 
-- Engineered automated CI/CD pipelines with GitHub Actions, increasing deployment frequency and reducing incidents
-- Implemented Infrastructure as Code (IaC) using Terraform/Terragrunt for version-controlled, repeatable Azure infrastructure
-- Standardised data governance, access control, and security using Databricks and Unity Catalog
-- Led the development of data processing applications in Databricks with PySpark and Python to enable a new view into ads management and performance and reduce cost by approximately 50%. Critically, this enabled the business to identify revenue spillage points to take action and maximise revenue.
+- Engineer automated CI/CD pipelines with GitHub Actions, increasing deployment frequency by 3x and eliminating manual release errors
+- Implement Infrastructure as Code (IaC) using Terraform/Terragrunt for version-controlled, repeatable Azure infrastructure
+- Standardise data governance, access control, and security using Databricks and Unity Catalog
+- Build data processing applications in Databricks with PySpark and Python, reducing operational costs by ~50% and enabling the business to identify and close revenue spillage points
 
 #### **Team Leadership:**
 
-- Mentor and coach 3 junior data engineers and 2 senior data engineers, developing a plan for their technical and non-technical growth, helping them to navigate the corporate environment, and preparing them for future leadership roles
-- Redesigned hiring process with coffee chats, practical design pattern discussions, and gamified coding assessments focused on real work scenarios rather than theoretical interviews
-- Created 3-year technical development program where each engineer owns specific areas (CI/CD, metadata-driven development, unit testing) to build expertise and accountability
-- Conduct performance reviews, career planning, and skill development initiatives
-- Established development standards: code contribution guidelines, PR processes, commit message conventions, application design requirements (IaC, service principles, networking), data flow standards, and naming conventions
-- Designed 3-year team roadmap focused on sustainable growth, cross-skilling, and wellbeing through empathetic, incremental transformation
+- Mentor and coach 5 data engineers (3 junior, 2 senior), developing technical growth plans and preparing them for future leadership roles
+- Redesign hiring process with coffee chats, design pattern discussions, and gamified coding assessments focused on real-world scenarios
+- Create 3-year technical development program where each engineer owns a domain (CI/CD, metadata-driven development, unit testing) to build deep expertise and accountability
+- Establish development standards: contribution guidelines, PR processes, commit conventions, IaC requirements, data flow standards, and naming conventions
+- Design 3-year team roadmap focused on sustainable growth, cross-skilling, and wellbeing through empathetic, incremental transformation
 
 ---
 
@@ -82,16 +80,16 @@ Led data transformation programs across Insurance and Transport sectors, archite
 
 #### **Technical & Product Delivery:**
 
-- Architected and built data ingestion pipelines and platforms meeting complex business requirements
+- Architected and built data ingestion pipelines and platforms meeting complex regulatory and business requirements
 - Delivered scalable solutions balancing customer needs, technical debt, and time-to-market
-- Developed reusable data engineering and DevOps assets for practitioners across the organization
-- Engaged directly with clients to understand requirements and shape technical roadmaps
+- Developed reusable data engineering and DevOps accelerators adopted by practitioners across the organization
+- Engaged directly with clients to understand requirements, shape technical roadmaps, and secure follow-on work
 
 #### **Impact:**
 
-- Grew the team from 0 to 25 engineers 
+- Grew the team from 0 to 25 engineers
 - Established community of practice with 50+ active members
-- Delivered 5+ client engagements across diverse industries
+- Delivered client engagements across Insurance, Transport, and other regulated industries
 
 
 ### **Data Science & Insights Lead** | UNHCR (UN Refugee Agency) | *Apr 2018 - Dec 2020* | Beirut, Lebanon
@@ -102,14 +100,14 @@ Built analytics applications and call center tools for humanitarian operations a
 
 - Designed and shipped custom analytics applications and call center tools to gather data from refugee communities
 - Streamlined reporting workflows and customized outputs, increasing data accessibility for leadership and external partners
-- Increased call center case processing from 5 cases per week to hundreds per day, including life-threatening emergencies
-- Doubled call center funding through improved data transparency and impact reporting
+- Increased call center case processing from **5 cases per week to hundreds per day**, including life-threatening emergencies
+- **Doubled call center funding** through improved data transparency and impact reporting
 
 #### **Technical Delivery:**
 
 - Built automated dashboards and visualizations using Python, Tableau, and Power BI to accelerate decision-making
 - Performed advanced analysis of multi-channel data using statistical modeling and machine learning techniques
-- Delivered an end-to-end data solution for collecting, analysing, actioning and reporting humanitarian emergencies
+- Delivered an end-to-end data solution for collecting, analysing, and reporting humanitarian emergencies
 
 #### **Impact:**
 
@@ -120,10 +118,9 @@ Built analytics applications and call center tools for humanitarian operations a
 
 ### **FinTech Systems Integration Specialist** | FOO s.a.l. | *Jun 2017 - Apr 2018* | Beirut, Lebanon
 
-- Designed and built financial solutions like digital wallets, payment gateways, and transaction systems using Java, Kotlin and Spring Boot with reactive microservices architecture
-- Created secure SaaS experiences bridging front-end apps with back-end systems using API gateways and authorization services  
-- Collaborated with partners in software, banking, and mobile spheres to prototype and deliver integrated products
-- Orchestrated software collaboration across vendors like Mastercard and Visa, banking gateways, internal services, and mobile teams
+- Designed and built financial solutions including digital wallets, payment gateways, and transaction systems using Java, Kotlin, and Spring Boot with reactive microservices architecture
+- Created secure SaaS experiences bridging front-end apps with back-end systems using API gateways and authorization services
+- Orchestrated cross-vendor integrations with Mastercard, Visa, banking gateways, and mobile teams to prototype and deliver production-ready products
 
 
 ### **Multimedia Content Creator** | Self-Employed | *Jun 2013 - Jun 2017* | Beirut, Lebanon
@@ -143,7 +140,7 @@ Designed and developed HR applications for personnel management, leave tracking,
 
 ### **Full-Stack Web Developer** | Swelpix | *Nov 2006 - Jan 2009* | Beirut, Lebanon
 
-Worked as full-stack web developer with PHP and MySQL. Used jQuery, JSON, REST APIs, and databases including PostgreSQL and Oracle DB.
+Built full-stack web applications with PHP and MySQL. Integrated jQuery, JSON, REST APIs, and databases including PostgreSQL and Oracle DB.
 
 
 ## Education
@@ -172,15 +169,3 @@ Saint Joseph University of Beirut
 ## Languages
 
 **English**: Fluent | **French**: Fluent | **Mandarin Chinese**: Pre-Intermediate
-
----
-
-## Let's Connect
-
-I'm interested in **Head of Data**, **Head of Engineering**, or **Engineering Manager** roles where I can:
-- Lead engineering teams building data platforms, analytics solutions, or customer-facing products
-- Partner with product and business departments to shape roadmaps and technical strategy
-- Build and mentor teams that deliver reliable solutions quickly
-- Architect scalable systems that solve real data problems for the business and customers
-
-📧 **jean [dot] boutros [at] gmail [dot] com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/jeanboutros)** | 📝 **[Medium](https://medium.com/@jeanboutros)** | 💾 [Github](https://github.com/jeanboutros)
