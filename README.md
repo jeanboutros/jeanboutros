@@ -1,13 +1,13 @@
 # Jean Boutros
 
-## Data Architect and Engineering Manager
+## Engineering Manager
 
 📍 London, UK | 📧 jean [dot] boutros [at] gmail [dot] com | 🪪 [LinkedIn](https://www.linkedin.com/in/jeanboutros) | 📝 [Medium Blog](https://medium.com/@jeanboutros) | 💾 [Github](https://github.com/jeanboutros)
 
 
 ## About Me
 
-Data engineering leader with **18 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've specialized in leading data engineering teams of **3-25 engineers**, delivering data platforms, analytics solutions, and customer-facing applications. 
+Data engineering leader with **19 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've specialized in leading data engineering teams of **3-25 engineers**, delivering data platforms, analytics solutions, and customer-facing applications. 
 
 I bridge technical implementation with business needs, translating requirements into solutions that drive measurable value. Currently seeking **Head of Data** or **Head of Engineering** opportunities where I can build data platforms that fuel business growth.
 
@@ -24,24 +24,23 @@ I bridge technical implementation with business needs, translating requirements 
 ### Technical Strategy & Architecture
 
 - **Data Platform Engineering**: Built data platforms, analytics solutions, and reporting systems that drive business decisions
-- **Cloud Architecture**: Cloud-native systems, data pipelines, dimensional models, microservices, real-time streaming (Kafka)
+- **Cloud Architecture**: Cloud-native systems, data pipelines, dimensional models, microservices
 - **Infrastructure & DevOps**: Infrastructure as Code (Terraform, Terragrunt), CI/CD with GitHub Actions, containerization
 - **Delivery Excellence**: Kanban-based delivery with iterative shipping and continuous improvement
 
 ### Technical Foundation
 
-- **Core Languages**: Python, PySpark, SQL, Bash, Java, Kotlin
+- **Core Languages**: Python (principle language), PySpark, SQL, Bash
+- **Other Languages**: TypeScript, Javascript, Java, Kotlin
 - **Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
-- **Data Platforms**: Databricks, Snowflake, Palantir Foundry, Unity Catalog
-- **Data Tools**: Kafka, Airflow, DuckDB
-- **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
-- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles, Hatch
-- **Analytics & BI**: Power BI, Tableau, Python (polars, pandas, delta lake, matplotlib, seaborn)
+- **Data Platforms**: Databricks, Snowflake, Unity Catalog
+- **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite, Unity Catalog
+- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles,
 
 
 ## Professional Experience
 
-### **Data Architect and Engineering Manager** | Bauer Media Outdoor Europe | *Aug 2024 - Present* | London, UK
+### **Engineering Manager** | Bauer Media Outdoor Europe | *Aug 2024 - Present* | London, UK
 
 Leading engineering practice managing **3 direct reports + 12 indirect** across data architecture and cloud engineering. Balance hands-on technical leadership with strategic planning and team development.
 
@@ -63,7 +62,7 @@ Leading engineering practice managing **3 direct reports + 12 indirect** across 
 
 - Mentor and coach 3 junior data engineers and 2 senior data engineers, developing a plan for their technical and non-technical growth, helping them to navigate the corporate environment, and preparing them for future leadership roles
 - Redesigned hiring process with coffee chats, practical design pattern discussions, and gamified coding assessments focused on real work scenarios rather than theoretical interviews
-- Created 3-year technical development plan where each engineer owns specific areas (CI/CD, metadata-driven development, unit testing) to build expertise and accountability
+- Created 3-year technical development program where each engineer owns specific areas (CI/CD, metadata-driven development, unit testing) to build expertise and accountability
 - Conduct performance reviews, career planning, and skill development initiatives
 - Established development standards: code contribution guidelines, PR processes, commit message conventions, application design requirements (IaC, service principles, networking), data flow standards, and naming conventions
 - Designed 3-year team roadmap focused on sustainable growth, cross-skilling, and wellbeing through empathetic, incremental transformation
@@ -77,7 +76,7 @@ Led data transformation programs across Insurance and Transport sectors, archite
 #### **Engineering Leadership at Scale:**
 
 - **Built a 25-engineer data capability from the ground up** — established governance, staffing frameworks, and reduced bench by 30%
-- Led team modernization: recruited engineers, defined training roadmaps, shifted from quick solutions (Alteryx, Excel, Power BI) to scalable cloud architectures using Databricks and Data Factory
+- Led team modernisation: recruited engineers, defined training roadmaps, shifted from quick solutions (Alteryx, Excel, Power BI) to scalable cloud architectures using Databricks and Data Factory
 - Consulted on all data transformation projects across various sectors; supported client designs, pitches, and internal peer reviews; chaired steering group
 - Coached engineers across consulting lines on technical growth and delivery excellence
 
