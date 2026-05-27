@@ -7,9 +7,9 @@
 
 ## About Me
 
-Data engineering leader with **19 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've led data engineering teams of **3–25 engineers**, delivering data platforms, analytics solutions, and customer-facing products across consulting, media, humanitarian, and fintech sectors.
+Data engineering manager with **19 years of experience** building scalable data systems and high-performing teams. Over the past **5 years**, I've led data engineering teams of **3–25 engineers**, delivering data platforms, analytics solutions, and customer-facing products across consulting, media, humanitarian, and fintech sectors.
 
-I bridge technical depth with business strategy — translating complex requirements into platforms that drive measurable revenue, reduce cost, and accelerate decision-making. I thrive in roles where I can build teams, shape technical roadmaps, and deliver systems that compound value over time.
+I thrive in roles where I can build teams, shape technical roadmaps, and deliver systems that compound value over time.
 
 
 ## Core Expertise
@@ -35,12 +35,12 @@ I bridge technical depth with business strategy — translating complex requirem
 - **Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
 - **Data Platforms**: Databricks, Snowflake, Unity Catalog
 - **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
-- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles
+- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, NestJS, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles
 
 
 ## Professional Experience
 
-### **Engineering Manager** | Bauer Media Outdoor Europe | *Aug 2024 - Present* | London, UK
+### **Data Architect** | Bauer Media Outdoor Europe | *Aug 2024 - Present* | London, UK
 
 Leading engineering practice managing **3 direct reports + 12 indirect** across data architecture and cloud engineering, balancing hands-on technical leadership with strategic planning and team development.
 
@@ -116,31 +116,12 @@ Built analytics applications and call center tools for humanitarian operations a
 - Improved donor transparency, contributing to increased funding
 
 
-### **FinTech Systems Integration Specialist** | FOO s.a.l. | *Jun 2017 - Apr 2018* | Beirut, Lebanon
+### **Earlier Career** | *Nov 2006 - Apr 2018* | Beirut, Lebanon
 
-- Designed and built financial solutions including digital wallets, payment gateways, and transaction systems using Java, Kotlin, and Spring Boot with reactive microservices architecture
-- Created secure SaaS experiences bridging front-end apps with back-end systems using API gateways and authorization services
-- Orchestrated cross-vendor integrations with Mastercard, Visa, banking gateways, and mobile teams to prototype and deliver production-ready products
-
-
-### **Multimedia Content Creator** | Self-Employed | *Jun 2013 - Jun 2017* | Beirut, Lebanon
-
-Founded a multimedia production company creating video and photographic assets for clientele.
-
-
-### **Enterprise Architecture Consultant** | eProseed | *Sep 2011 - May 2013* | Beirut, Lebanon
-
-Migrated legacy systems into SOA frameworks using Oracle middleware, assisted in process analysis and redesign, and developed integration solutions using microservices and service buses.
-
-
-### **HR Information Systems Analyst/Developer** | Saint-Joseph University | *Sep 2009 - Aug 2011* | Beirut, Lebanon
-
-Designed and developed HR applications for personnel management, leave tracking, and payroll processing. Produced reports, analysis, and visualizations for quality control and auditing.
-
-
-### **Full-Stack Web Developer** | Swelpix | *Nov 2006 - Jan 2009* | Beirut, Lebanon
-
-Built full-stack web applications with PHP and MySQL. Integrated jQuery, JSON, REST APIs, and databases including PostgreSQL and Oracle DB.
+- Built fintech products (digital wallets, payment gateways, transaction systems) using Java, Kotlin, and Spring Boot with reactive microservices; integrated with Mastercard, Visa, and banking APIs
+- Migrated legacy systems to SOA frameworks using Oracle middleware; designed integration solutions with microservices and service buses
+- Developed HR applications for personnel management, leave tracking, and payroll; delivered reporting and data visualizations for auditing
+- Built full-stack web applications with PHP, MySQL, PostgreSQL, and REST APIs
 
 
 ## Education
