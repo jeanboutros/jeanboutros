@@ -16,46 +16,70 @@ I thrive in roles where I can build teams, shape technical roadmaps, and deliver
 
 ### Engineering Leadership
 
-- **Team Building & Management**: Built teams from 3 to 25+ engineers; established governance frameworks and reduced bench time by 30%
-- **Cross-Functional Collaboration**: Partner with Product, Business, and Design to shape roadmaps and drive delivery
-- **Coaching & Development**: Mentored engineers across all levels; created training roadmaps and communities of practice
-- **Hiring & Retention**: Recruited and retained high-performing engineers; built career progression frameworks
+- **Practice Leadership & Team Building**: Built data engineering teams from scratch (0–25 engineers); defined operating models, enterprise standards, hiring pipelines, and engineering direction across business areas
+- **End-to-End Platform Ownership**: Own data platforms from architecture and delivery through to reliability, cost, and continuous improvement
+- **Executive & Stakeholder Engagement**: Report to and influence C-suite (CTO, CPO); shape strategy, secure investment, and align technology with business outcomes
+- **Cross-Functional Collaboration**: Partner with Product, Business, Architecture, and Delivery teams to shape roadmaps, resolve dependencies, and drive delivery across portfolios
+- **Coaching & Development**: Mentor engineers across all levels; create training roadmaps and communities of practice
+- **Hiring & Retention**: Recruit and retain high-performing engineers; build career progression frameworks
 
 ### Technical Strategy & Architecture
 
-- **Data Platform Engineering**: Built data platforms, analytics solutions, and reporting systems that drive business decisions
-- **Cloud Architecture**: Cloud-native systems, data pipelines, dimensional models, microservices
-- **Infrastructure & DevOps**: Infrastructure as Code (Terraform, Terragrunt), CI/CD with GitHub Actions, containerization
+- **Data Platform Engineering**: Databricks Lakehouse (Delta Lake, PySpark, Unity Catalog), data mesh, data products, and analytics platforms
+- **Cloud Architecture**: Cloud-native systems, data pipelines, dimensional models, event-driven and streaming architectures
+- **AI & Innovation**: AI-ready platform enablement, agentic AI workflows, MLOps foundations, Responsible AI principles
+- **Infrastructure & DevOps**: Infrastructure as Code (Terraform, Terragrunt), CI/CD with GitHub Actions, DataOps, observability
 - **Delivery Excellence**: Kanban-based delivery with iterative shipping and continuous improvement
 
 ### Technical Foundation
 
 - **Core Languages**: Python (primary), PySpark, SQL, Bash
 - **Other Languages**: TypeScript, JavaScript, Java, Kotlin
-- **Cloud & Infrastructure**: Azure (Data Factory, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
-- **Data Platforms**: Databricks, Snowflake, Unity Catalog
+- **Cloud & Infrastructure**: Azure (Data Factory with self-hosted IRs, Functions, Data Lake, Event Hub), Kubernetes, Docker, Terraform, Terragrunt
+- **Data Platforms**: Databricks (Lakehouse, Delta Lake, Spark, Unity Catalog); Snowflake (working knowledge)
 - **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
-- **DevOps & Integration**: GitHub Actions, CI/CD, REST APIs, NestJS, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles
+- **AI & Automation**: OpenAI API, Anthropic Claude, GitHub Copilot, agentic AI workflows
+- **DevOps & Integration**: GitHub Actions, CI/CD, DataOps, REST APIs, NestJS, GraphQL, Spring Boot, Microservices, Databricks Asset Bundles
 
 
 ## Professional Experience
 
-### **Data Architect** | Bauer Media Outdoor Europe | *Aug 2024 - Present* | London, UK
+### **Data Architect** | Bauer Media Outdoor | *Aug 2024 - Present* | London, UK
 
-Leading engineering practice managing **3 direct reports + 12 indirect** across data architecture and cloud engineering, balancing hands-on technical leadership with strategic planning and team development.
+End-to-end owner of the data engineering practice managing **3 direct reports + 12 indirect** across data architecture and cloud engineering. Report directly to the CPO on platform performance and partner with the CTO on technical strategy. Defined the operating model, governance, and staffing frameworks from the ground up while balancing hands-on technical leadership with strategic planning and team development.
 
 #### **Product & Engineering Leadership:**
 
-- Define and implement data architecture framework serving BI and analytics customers across the organisation
-- Partner with product and business stakeholders to translate requirements into scalable technical solutions
-- Establish principles and standards for data quality and processing, reducing incidents by 80%
+- Define and implement the data architecture framework serving BI and analytics customers across the organisation
+- Partner with the CTO, CPO, product, and business stakeholders to shape technical direction and translate requirements into scalable platform capabilities
+- Establish principles and standards for data quality and processing, reducing production incidents by 80%
+- Set enterprise standards for BI, data storage, pipeline design, naming conventions, and software engineering practices across multiple teams and business areas
+- Review and approve architectures of solutions built by other teams to ensure scalability, reliability, and adherence to best practices
+- Establish enterprise-wide engineering standards, DataOps practices, and delivery governance across the practice
 
 #### **Technical Delivery:**
 
+- Own the Azure data platform end-to-end: Databricks Lakehouse, Data Factory, Data Lake, Event Hub, and supporting services
+- Design, implement, and govern Azure Data Factory pipelines with self-hosted integration runtimes for hybrid on-prem and cloud sources; set ADF standards adopted across teams
 - Engineer automated CI/CD pipelines with GitHub Actions, increasing deployment frequency by 3x and eliminating manual release errors
 - Implement Infrastructure as Code (IaC) using Terraform/Terragrunt for version-controlled, repeatable Azure infrastructure
-- Standardise data governance, access control, and security using Databricks and Unity Catalog
+- Standardise data governance, access control, and security using Databricks Unity Catalog and Delta Lake as the foundational Lakehouse architecture
 - Build data processing applications in Databricks with PySpark and Python, reducing operational costs by ~50% and enabling the business to identify and close revenue spillage points
+- Design and implement an ingestion framework supporting API-based, batch, and streaming patterns, converting all data downstream to a unified streaming model
+- Establish data contracts through AI agents — defining contracts in markdown and enabling consumers to track changes and apply them without human interaction
+
+#### **Reliability & Operational Excellence:**
+
+- Own production reliability of the data platform; reduced incidents by 80% through quality standards, automated testing, and proactive monitoring
+- Implement automated alerting in Databricks with Microsoft Teams integration for real-time incident response and on-call routing
+- Establish observability, support, and incident-management practices, embedding operational ownership across the team
+
+#### **AI & Innovation:**
+
+- Champion AI adoption across the organisation; co-organised internal hackathon to accelerate AI literacy and experimentation
+- Enable teams to build agentic AI workflows for the software development lifecycle, improving engineering productivity
+- Build AI-powered agentic workflows for data engineering delivery, automating repetitive tasks across the team
+- Early adopter and tester of AI platforms (Anthropic Claude, GitHub Copilot, ChatGPT), integrating them into engineering practices
 
 #### **Team Leadership:**
 
@@ -69,25 +93,28 @@ Leading engineering practice managing **3 direct reports + 12 indirect** across 
 
 ### **Data & Analytics Manager** | PwC | *Nov 2021 - Aug 2024* | London, UK
 
-Led data transformation programs across Insurance and Transport sectors, architecting solutions using Databricks, Snowflake, and Azure services.
+Led data transformation programs across Insurance and Transport sectors within a large matrix organisation, architecting solutions using Databricks, Azure Data Factory, and Snowflake. Engaged directly with client C-suite stakeholders (CDOs, CTOs, programme sponsors) to shape data strategies and secure executive buy-in.
 
-#### **Engineering Leadership at Scale:**
+#### **Delivery Leadership at Scale:**
 
-- **Built a 25-engineer data capability from the ground up** — established governance, staffing frameworks, and reduced bench by 30%
-- Led team modernisation: recruited engineers, defined training roadmaps, shifted from quick solutions (Alteryx, Excel, Power BI) to scalable cloud architectures using Databricks and Data Factory
-- Consulted on all data transformation projects across various sectors; supported client designs, pitches, and internal peer reviews; chaired steering group
+- **Built a 25-engineer data engineering capability from the ground up** — defined the operating model, governance, staffing frameworks, hiring pipeline, and engineering direction; reduced bench by 30%
+- Led team modernisation: recruited engineers, defined training roadmaps, shifted from quick solutions (Alteryx, Excel, Power BI) to scalable cloud architectures using Databricks and Azure Data Factory
+- Consulted on all data transformation projects across multiple sectors and portfolios; supported client designs, pitches, and internal peer reviews; chaired steering group
 - Coached engineers across consulting lines on technical growth and delivery excellence
+- Influenced client executives on data platform strategy, target operating models, and investment cases
 
 #### **Technical & Product Delivery:**
 
-- Architected and built data ingestion pipelines and platforms meeting complex regulatory and business requirements
-- Delivered scalable solutions balancing customer needs, technical debt, and time-to-market
+- Implemented data mesh architecture principles, enabling domain-oriented data ownership and decentralised delivery
+- Built a sales reporting data product from the ground up, demonstrating the data product operating model
+- Designed and implemented Azure Data Factory ingestion pipelines as a core delivery pattern across regulated client engagements
+- Architected ingestion frameworks supporting batch and API-based patterns with downstream streaming conversion
+- Delivered scalable solutions on Databricks (Delta Lake, PySpark, Unity Catalog) and Snowflake balancing customer needs, technical debt, and time-to-market
 - Developed reusable data engineering and DevOps accelerators adopted by practitioners across the organization
-- Engaged directly with clients to understand requirements, shape technical roadmaps, and secure follow-on work
 
 #### **Impact:**
 
-- Grew the team from 0 to 25 engineers
+- Grew the practice from 0 to 25 engineers
 - Established community of practice with 50+ active members
 - Delivered client engagements across Insurance, Transport, and other regulated industries
 
